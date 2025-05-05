@@ -17,7 +17,7 @@ This is a Next.js application for managing student attendance using MongoDB as t
 ## 🔗 Video Demo
 
 Watch the full video demonstration here:  
-👉 [AttendEase - Google Drive Demo](https://drive.google.com/file/d/1iQSHMGq2Q9WhBJ2DQ-wUD133wxiojZ9l/view?usp=sharing)
+👉 [AttendEase](https://drive.google.com/file/d/1iQSHMGq2Q9WhBJ2DQ-wUD133wxiojZ9l/view?usp=sharing)
 
 ## Credentials
 
